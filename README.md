@@ -1,5 +1,7 @@
 # Leveraging Data-Driven Insights from Amazon Brazil’s Data for Indian Market Strategy
 
+**Technology Used:** SQL 
+
 ## Overview  
 The project was to analyze **Amazon Brazil's retail data** to identify trends and customer behaviors that can be leveraged in the **Indian market**. The insights help Amazon India make **data-driven decisions**, enhance customer experience, and seize new opportunities.  
 
